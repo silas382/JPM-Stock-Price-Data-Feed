@@ -1,5 +1,5 @@
 
-<p> JPMorgan Chase & Co. Interface with a stock price data feed</p>
+<p> JPMorgan Chase & Co. Interface with a stock price data feed build on top of JPMorgan Chase's Perspective data visualization software</p>
 
 
 <h2>How to Run</h2>
