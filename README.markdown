@@ -1,5 +1,5 @@
 
-<p>Interface with a stock price data feed</p>
+<p> JPMorgan Chase & Co. Interface with a stock price data feed</p>
 
 
 <h2>How to Run</h2>
